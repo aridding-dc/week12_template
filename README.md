@@ -1,8 +1,20 @@
 # README
 
-This is a short introduction to utilizing GitHub for Project Archiving and Versioning. 
+This is a short overview, covering the topics discussed in DATA 1202 - Data Analysis Tools. 
 
-At this point we have learned about databases and introduced SQL. 
+We started by discuss how to properly frame a business question to be answerable with data. We then moved to defining databases and basic SQL, practiced pandas and data visualizations and defined Data Reproducibility and Versioning. 
+
+### Tools Used
+- MySQL Workbench
+- MySQL Server
+- SQL
+- Python
+- Pandas
+- Matplotlib
+- sqlalchemy
+- Git and Github
+- Markdown
+- Jekyll
 
 ### SQL
 We have practiced using SQL to perform basic data analysis including:
